@@ -3,7 +3,7 @@ First Repository
 
 This is my first github Repository 
 
-here's a triforce 
+here's almost a triforce 
 
 
   ▲
